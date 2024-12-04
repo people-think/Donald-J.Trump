@@ -2,7 +2,7 @@
 title: "People Think"
 description: "A blog about politics, opinions, and insights into current events."
 keywords: "politics, blog, news, opinions, insights"
-url: "https://www.youtube.com/@47thcapsule"  # Replace with your GitHub Pages URL or your site URL
+#url: "https://www.youtube.com/@47thcapsule"  # Replace with your GitHub Pages URL or your site URL
 baseurl: "/"  # Keep it as "/" for root directory or set for subdirectory like "/your-repository-name"
 theme: jekyll-theme-slate  # Optional: Set a Jekyll theme, or you can leave it out if using custom styles
 
@@ -34,7 +34,7 @@ social:
   twitter: "https://twitter.com/yourusername"
   linkedin: "https://linkedin.com/in/yourusername"
   github: "https://github.com/your-username"
-
+  youtube: "https://www.youtube.com/@47thcapsule"
 # Plugins (optional)
 plugins:
   - jekyll-seo-tag  # For SEO optimization
