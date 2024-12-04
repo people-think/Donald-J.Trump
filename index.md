@@ -6,7 +6,7 @@
 - [Trump Info](#trump-info)
   - [Biography](#biography)
   - [Trump Policies](#trump-policies)
-- [Business to Politics](From-Business-to-Politics-The-Lasting-Impact-of-Donald-Trumps-Presidency.html)
+  - [Business to Politics](From-Business-to-Politics-The-Lasting-Impact-of-Donald-Trumps-Presidency.html)
 
 
 # Conservatism Redefined: Trump\'s Vision for the GOP
