@@ -13,4 +13,4 @@ nav:
       - title: "Trump Policies"
         url: "/trump-policies"
   - title: "From Business to Politics"
-    url: "/From-Business-to-Politics:-The-Lasting-Impact-of-Donald-Trump's-Presidency.md"
+    url: "/From-Business-to-Politics-The-Lasting-Impact-of-Donald-Trumps-Presidency.md"
