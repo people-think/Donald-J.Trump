@@ -1,4 +1,11 @@
+## Navigation
 
+- [Home](#home)
+- [About](#about)
+- [News](#news)
+- [Trump Info](#trump-info)
+  - [Biography](#biography)
+  - [Trump Policies](#trump-policies)
 
 ---
 title: "The Legacy and Future of Donald J. Trump"
