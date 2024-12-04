@@ -1,16 +1,16 @@
----
-layout: jekyll-theme-slate
-title: "People Think"
----
-
-## Navigation
-
-- {% for item in site.nav %}
-  - [{{ item.title }}]({{ item.url }})
-  {% if item.submenu %}
-    - **Submenu:**
-      {% for sub_item in item.submenu %}
-        - [{{ sub_item.title }}]({{ sub_item.url }})
-      {% endfor %}
-  {% endif %}
-{% endfor %}
+nav:
+  - title: "Home"
+    url: "/"
+  - title: "About"
+    url: "/about"
+  - title: "News"
+    url: "/news"
+  - title: "Trump Info"
+    url: "/trump-info"
+    submenu:
+      - title: "Biography"
+        url: "/biography"
+      - title: "Trump Policies"
+        url: "/trump-policies"
+  - title: "From Business to Politics"
+    url: "/From-Business-to-Politics:-The-Lasting-Impact-of-Donald-Trump's-Presidency.md"
