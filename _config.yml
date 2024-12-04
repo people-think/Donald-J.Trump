@@ -2,7 +2,7 @@
 title: "People Think"
 description: "A blog about politics, opinions, and insights into current events."
 keywords: "politics, blog, news, opinions, insights"
-url: "https://your-username.github.io"  # Replace with your GitHub Pages URL or your site URL
+url: "https://www.youtube.com/@47thcapsule"  # Replace with your GitHub Pages URL or your site URL
 baseurl: "/"  # Keep it as "/" for root directory or set for subdirectory like "/your-repository-name"
 theme: jekyll-theme-slate  # Optional: Set a Jekyll theme, or you can leave it out if using custom styles
 
@@ -26,8 +26,8 @@ nav:
 
 # Author information (optional)
 author:
-  name: "Your Name"
-  email: "your-email@example.com"
+  name: "hasnainmorani"
+  email: "hasnainmorani700@gmail.com"
 
 # Social media links (optional)
 social:
