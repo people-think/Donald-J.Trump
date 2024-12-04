@@ -35,16 +35,19 @@
     </footer>
 
     <script>
-        // Fetch and render the Markdown file
-        fetch('index.md')  // Adjust the path if needed
-            .then(response => response.text())  // Convert response to text
+        // Check if the fetch path is correct
+        fetch('index.md')  // Update the path to match your file structure
+            .then(response => {
+                if (!response.ok) {
+                    throw new Error('Failed to load markdown file');
+                }
+                return response.text();
+            })
             .then(text => {
-                // Use Marked.js to convert the markdown content to HTML
                 document.getElementById('markdown-container').innerHTML = marked(text);
             })
             .catch(error => {
-                // Handle any errors that occur during the fetch operation
-                console.error('Error fetching the Markdown file:', error);
+                console.error('Error loading the markdown file:', error);
             });
     </script>
 </body>
