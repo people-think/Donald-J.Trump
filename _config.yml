@@ -29,7 +29,7 @@ nav:
       - title: "Trump Policies"
         url: "/trump-policies"
   - title: "From Business to Politics"
-url: "/From-Business-to-Politics:-The-Lasting-Impact-of-Donald-Trump's-Presidency.md"
+    url: "/From-Business-to-Politics-The-Lasting-Impact-of-Donald-Trumps-Presidency.md"
 
 # Author information (optional)
 author:
@@ -42,6 +42,7 @@ social:
   linkedin: "https://linkedin.com/in/yourusername"
   github: "https://github.com/your-username"
   youtube: "https://www.youtube.com/@47thcapsule"
+
 # Plugins (optional)
 plugins:
   - jekyll-seo-tag  # For SEO optimization
