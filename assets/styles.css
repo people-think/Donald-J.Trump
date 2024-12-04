@@ -1,102 +1,137 @@
-/* Basic Reset */
+/* Reset some default styles */
 * {
-  margin: 0;
-  padding: 0;
-  box-sizing: border-box;
-}
-/* Body and Layout */
-body {
-  font-family: Arial, sans-serif;
-  background-color: #f4f4f4;
-  line-height: 1.6;
-  padding: 20px;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
 }
 
-/* Navigation Menu Styling */
+body {
+    font-family: 'Inter', Arial, sans-serif;
+    background-color: #f6f8fa;
+    color: #24292f;
+    line-height: 1.6;
+    padding-top: 50px;  /* Ensure content isn't hidden behind fixed navbar */
+}
+
+/* Header (Navbar) */
+.header {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    background-color: #24292f;
+    padding: 10px 0;
+    z-index: 1000;
+    box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
+}
+
+.header .logo {
+    font-size: 24px;
+    color: white;
+    margin-left: 30px;
+}
+
 .navbar {
-  display: flex;
-  justify-content: space-around;
-  background-color: #333;
-  padding: 10px;
-  position: fixed; /* Keeps the navbar at the top */
-  top: 0;
-  left: 0;
-  width: 100%;
-  z-index: 10; /* Keeps the navbar above other content */
+    display: flex;
+    justify-content: flex-end;
+    gap: 20px;
+    padding-right: 30px;
 }
 
 .navbar a {
-  color: white;
-  text-decoration: none;
-  padding: 10px 15px;
-  text-align: center;
-  transition: background-color 0.3s ease;
+    color: white;
+    text-decoration: none;
+    padding: 10px 15px;
+    border-radius: 5px;
 }
 
 .navbar a:hover {
-  background-color: #575757;
+    background-color: #0366d6;
+    transition: background-color 0.3s ease;
 }
 
-/* Dropdown Styling */
+/* Dropdown Menu */
 .dropdown {
-  position: relative;
-  display: inline-block;
+    position: relative;
 }
 
 .dropbtn {
-  background-color: #333;
-  color: white;
-  padding: 10px 15px;
-  border: none;
-  cursor: pointer;
-  font-size: 16px;
-  transition: background-color 0.3s ease;
+    background-color: #24292f;
+    color: white;
+    border: none;
+    padding: 10px 15px;
+    font-size: 16px;
+    cursor: pointer;
 }
 
 .dropbtn:hover {
-  background-color: #575757;
+    background-color: #0366d6;
 }
 
 .dropdown-content {
-  display: none;
-  position: absolute;
-  background-color: #333;
-  min-width: 160px;
-  z-index: 1;
-}
-
-.dropdown-content a {
-  color: white;
-  padding: 10px 15px;
-  text-decoration: none;
-  display: block;
-}
-
-.dropdown-content a:hover {
-  background-color: #575757;
+    display: none;
+    position: absolute;
+    background-color: #fff;
+    min-width: 160px;
+    z-index: 1;
+    border-radius: 5px;
+    box-shadow: 0 8px 16px rgba(0, 0, 0, 0.2);
+    margin-top: 5px;
 }
 
 .dropdown:hover .dropdown-content {
-  display: block;
+    display: block;
 }
 
-/* Heading and Content Styling */
-h1, h2, h3 {
-  color: #333;
-  margin-top: 80px; /* Adds space for the fixed navbar */
+.dropdown-content a {
+    color: #24292f;
+    padding: 12px 16px;
+    text-decoration: none;
+    display: block;
 }
 
-main {
-  padding: 20px;
-  background-color: white;
-  border-radius: 8px;
-  box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
-  margin-top: 60px; /* Prevents content from being hidden behind the navbar */
+.dropdown-content a:hover {
+    background-color: #f6f8fa;
 }
 
-img {
-  max-width: 100%;
-  height: auto;
-  border-radius: 8px;
-  margin-top: 20px;
+/* Hero Section */
+.hero {
+    text-align: center;
+    margin: 100px auto;
+    padding: 20px;
+}
+
+.hero h1 {
+    font-size: 2.5em;
+    margin-bottom: 20px;
+}
+
+.hero img {
+    max-width: 100%;
+    height: auto;
+    border-radius: 10px;
+    box-shadow: 0 10px 30px rgba(0, 0, 0, 0.1);
+}
+
+/* Content Section */
+.content {
+    max-width: 800px;
+    margin: 30px auto;
+    padding: 20px;
+    background-color: white;
+    border-radius: 8px;
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
+}
+
+.content h2 {
+    margin-bottom: 15px;
+    font-size: 1.8em;
+}
+
+footer {
+    text-align: center;
+    padding: 20px;
+    background-color: #24292f;
+    color: white;
+    margin-top: 30px;
 }
