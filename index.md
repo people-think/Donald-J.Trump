@@ -7,8 +7,7 @@ date: 2024-12-04
 
 # The Legacy and Future of Donald J. Trump
 
-![Donald Trump](https://upload.wikimedia.org/wikipedia/commons/e/e3/Donald_Trump_official_portrait.jpg)
-*Image Source: Wikimedia Commons - Donald Trump Official Portrait*
+![Donald Trump](assets/Donald%20Trump.webp)
 
 Donald J. Trump, the 47th President of the United States, has left an indelible mark on American politics. With his business acumen and unique approach to leadership, Trump continues to be a prominent figure in both the political and media spheres. Whether you agree or disagree with his policies, it’s hard to deny his influence. In this post, we’ll explore key aspects of Trump’s journey, from his early days to his latest ventures, while diving into important discussions surrounding his future in politics.
 
@@ -16,15 +15,15 @@ Donald J. Trump, the 47th President of the United States, has left an indelible 
 
 As of 2024, the current president is Joe Biden, having succeeded Donald Trump in 2021. However, Trump’s legacy continues to shape American politics, and many are wondering: **Can Donald Trump run for president in 2028?**
 
-![President Joe Biden](https://upload.wikimedia.org/wikipedia/commons/4/4b/Joe_Biden%2C_Official_Portrait%2C_2021.jpg)
-*Image Source: Wikimedia Commons - Joe Biden Official Portrait*
+![President Joe Biden](assets/President%20Joe%20Biden.jpeg)
+*Image Source: Your Assets Folder - President Joe Biden*
 
 While no formal decision has been made, Trump’s influence on the Republican Party remains strong. His supporters are curious about his potential candidacy in the future, especially given his ongoing involvement in political discourse and his **2024 campaign strategy**. 
 
 ## When Did Donald Trump Become President?
 
-![Donald Trump Inauguration](https://upload.wikimedia.org/wikipedia/commons/3/3d/Donald_Trump_inauguration_2017.jpg)
-*Image Source: Wikimedia Commons - Donald Trump Inauguration 2017*
+![Donald Trump Inauguration](assets/Donald%20Trump%20Inauguration.avif)
+*Image Source: Your Assets Folder - Donald Trump Inauguration 2017*
 
 Donald Trump officially took office as the 45th President of the United States on January 20, 2017. His presidency was marked by bold economic policies, controversial statements, and landmark moments. From his **Trump economic policies in 2024** to his influence on international relations, Trump’s time in office is a topic of ongoing debate.
 
@@ -34,8 +33,8 @@ Trump’s media presence also extends beyond politics. His appearances on **Jay 
 
 ## Fact About Donald Trump: A Business Mogul Turned Politician
 
-![Donald Trump 2006](https://upload.wikimedia.org/wikipedia/commons/8/87/Donald_Trump_2006.jpg)
-*Image Source: Wikimedia Commons - Donald Trump 2006*
+![Donald Trump 2006](assets/Donald%20Trump%202006.jpg)
+*Image Source: Your Assets Folder - Donald Trump 2006*
 
 One of the most fascinating facts about Donald Trump is his transition from a **business mogul** to a political powerhouse. Known for his real estate empire, Trump’s business background has often been a topic of interest, especially regarding his **net worth** and how it influenced his policy decisions.
 
