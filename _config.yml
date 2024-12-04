@@ -1,7 +1,56 @@
----
-layout: default
-title: "The Legacy and Future of Donald J. Trump"
-description: "Donald Trump's presidency, economic policies, and future political prospects."
-keywords: "president donald j trump avenue, who is the current president of the united states, when did donald trump become president, can donald trump run for president in 2028, fact about donald trump"
-date: 2024-12-04
----
+# Site settings
+title: "People Think"
+description: "A blog about politics, opinions, and insights into current events."
+keywords: "politics, blog, news, opinions, insights"
+url: "https://your-username.github.io"  # Replace with your GitHub Pages URL or your site URL
+baseurl: "/"  # Keep it as "/" for root directory or set for subdirectory like "/your-repository-name"
+theme: jekyll-theme-slate  # Optional: Set a Jekyll theme, or you can leave it out if using custom styles
+
+# Markdown processing settings
+markdown: kramdown
+highlighter: rouge
+
+# Permalinks setting
+permalink: pretty  # Uses pretty URLs like `/about/` instead of `/about.html`
+
+# Navigation menu links
+nav:
+  - title: "Home"
+    url: "/"
+  - title: "About"
+    url: "/about"
+  - title: "Blog"
+    url: "/blog"
+  - title: "Contact"
+    url: "/contact"
+
+# Author information (optional)
+author:
+  name: "Your Name"
+  email: "your-email@example.com"
+
+# Social media links (optional)
+social:
+  twitter: "https://twitter.com/yourusername"
+  linkedin: "https://linkedin.com/in/yourusername"
+  github: "https://github.com/your-username"
+
+# Plugins (optional)
+plugins:
+  - jekyll-seo-tag  # For SEO optimization
+  - jekyll-feed     # To generate RSS feeds
+
+# Build settings
+markdown_ext: "md"
+exclude:
+  - README.md   # You can exclude files from being processed by Jekyll
+  - LICENSE.md
+
+# Google Analytics (optional)
+google_analytics: "UA-XXXXXXX-X"
+
+# Authorizing and Generating Assets
+assets:
+  css_dir: "/assets/styles.css"
+  js_dir: "/assets/scripts.js"
+  images_dir: "/assets/images"
