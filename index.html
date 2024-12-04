@@ -5,6 +5,8 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>The Legacy and Future of Donald J. Trump</title>
     <link rel="stylesheet" href="styles.css">
+   <script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
+
 </head>
 <body>
     <header class="header">
@@ -23,18 +25,19 @@
                 </div>
             </div>
         </nav>
+<script>
+    fetch('index.md')  // Replace with the actual path to your Markdown file
+        .then(response => response.text())
+        .then(text => {
+            document.getElementById('markdown-container').innerHTML = marked(text);
+        });
+</script>
+
     </header>
 
     <main>
-        <section class="hero">
-            <h1>The Legacy and Future of Donald J. Trump</h1>
-            <img src="assets/Donald%20Trump.webp" alt="Donald Trump">
-        </section>
+       <div id="markdown-container"></div>
 
-        <section class="content">
-            <h2>Who Is the Current President of the United States?</h2>
-            <p>As of 2024, the current president is Joe Biden, having succeeded Donald Trump in 2021.</p>
-        </section>
     </main>
 
     <footer>
