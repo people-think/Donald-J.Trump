@@ -5,8 +5,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>The Legacy and Future of Donald J. Trump</title>
     <link rel="stylesheet" href="styles.css">
-   <script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
-
+    <script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
 </head>
 <body>
     <header class="header">
@@ -25,23 +24,28 @@
                 </div>
             </div>
         </nav>
-<script>
-    fetch('index.md')  // Replace with the actual path to your Markdown file
-        .then(response => response.text())
-        .then(text => {
-            document.getElementById('markdown-container').innerHTML = marked(text);
-        });
-</script>
-
     </header>
 
     <main>
-       <div id="markdown-container"></div>
-
+        <div id="markdown-container"></div>
     </main>
 
     <footer>
         <p>&copy; 2024 Trump Legacy | All rights reserved.</p>
     </footer>
+
+    <script>
+        // Fetch and render the Markdown file
+        fetch('index.md')  // Adjust the path if needed
+            .then(response => response.text())  // Convert response to text
+            .then(text => {
+                // Use Marked.js to convert the markdown content to HTML
+                document.getElementById('markdown-container').innerHTML = marked(text);
+            })
+            .catch(error => {
+                // Handle any errors that occur during the fetch operation
+                console.error('Error fetching the Markdown file:', error);
+            });
+    </script>
 </body>
 </html>
