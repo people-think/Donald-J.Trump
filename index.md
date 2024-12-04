@@ -33,8 +33,8 @@ Trump’s media presence also extends beyond politics. His appearances on **Jay 
 
 ## Fact About Donald Trump: A Business Mogul Turned Politician
 
-![Donald Trump 2006](assets/Donald%20Trump.jpg)
-*Image Source: Your Assets Folder - Donald Trump*
+![Donald Trump Roots](https://www.google.com/url?sa=i&url=https%3A%2F%2Ftime.com%2Froots-donald-trump%2F&psig=AOvVaw0Ajb1Vo7MCaci6gt8bFpQh&ust=1733366335140000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCOCp1fuKjYoDFQAAAAAdAAAAABAR)
+*Image Source: [Time.com](https://time.com/roots-donald-trump/)*
 
 One of the most fascinating facts about Donald Trump is his transition from a **business mogul** to a political powerhouse. Known for his real estate empire, Trump’s business background has often been a topic of interest, especially regarding his **net worth** and how it influenced his policy decisions.
 
