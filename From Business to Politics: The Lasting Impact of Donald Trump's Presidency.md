@@ -1,5 +1,4 @@
 ---
-layout: default
 title: "From Business to Politics: The Lasting Impact of Donald Trump's Presidency"
 ---
 
