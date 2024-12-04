@@ -1,3 +1,28 @@
+
+
+## Navigation Menu
+
+<!-- Dropdown Menu HTML Code -->
+<div class="navbar">
+    <a href="#">Home</a>
+    <a href="#">About</a>
+    <a href="#">News</a>
+    <div class="dropdown">
+        <button class="dropbtn">Trump Info
+            <i class="fa fa-caret-down"></i>
+        </button>
+        <div class="dropdown-content">
+            <a href="#">Biography</a>
+            <a href="#">Trump Policies</a>
+            <a href="#">Debates</a>
+            <a href="#">Trump Quotes</a>
+        </div>
+    </div>
+</div>
+
+<!-- Add more content here -->
+
+
 ---
 title: "The Legacy and Future of Donald J. Trump"
 description: "Donald Trump's presidency, economic policies, and future political prospects. Discover his important moments, podcast comments, and campaign strategies."
