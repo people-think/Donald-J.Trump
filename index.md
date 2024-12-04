@@ -34,7 +34,7 @@ date: 2024-12-04
 
 ![Donald Trump](assets/Donald%20Trump.webp)
 
-Donald J. Trump, the 47th President of the United States, has left an indelible mark on American politics. With his business acumen and unique approach to leadership, Trump continues to be a prominent figure in both the political and media spheres. Whether you agree or disagree with his policies, it’s hard to deny his influence. In this post, we’ll explore key aspects of Trump’s journey, from his early days to his latest ventures, while diving into important discussions surrounding his future in politics.
+Donald J. Trump, the 47th President of the United States, has left an indelible mark on American politics. With his business acumen and unique approach to leadership, Trump continues to be a prominent figure in both the political and media spheres. Whether you agree or disagree with his policies,it’s hard to deny his influence. In this post, we’ll explore key aspects of Trump’s journey, from his early days to his latest ventures, while diving into important discussions surrounding his future in politics.
 
 ## Who Is the Current President of the United States?
 
