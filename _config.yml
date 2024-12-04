@@ -19,10 +19,17 @@ nav:
     url: "/"
   - title: "About"
     url: "/about"
-  - title: "Blog"
-    url: "/blog"
-  - title: "Contact"
-    url: "/contact"
+  - title: "News"
+    url: "/news"
+  - title: "Trump Info"
+    url: "/trump-info"
+    submenu:
+      - title: "Biography"
+        url: "/biography"
+      - title: "Trump Policies"
+        url: "/trump-policies"
+  - title: "From Business to Politics"
+    url: "/From-Business-to-Politics-The-Lasting-Impact-of-Donald-Trumps-Presidency.html"
 
 # Author information (optional)
 author:
